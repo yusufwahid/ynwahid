@@ -21,6 +21,7 @@ My Programming Skills:
 * Python
 * C++
 * Golang
+* Java
 * SQL
 
 My Other Skills:
